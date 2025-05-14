@@ -1,2 +1,2 @@
-# intro-in-to-git-lab
-This repository is for the version control lab assignment.
+My name is Srijan.
+My favorite programming language is Python because it's readable and powerful.
